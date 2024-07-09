@@ -2,7 +2,7 @@
 
 This Python code is a financial calculator that allows users to calculate either simple or compound interest for investments, or monthly repayments for a bond (home loan). Here's an explanation of how the code works:
 
-##Functions Defined:
+## Functions Defined:
 
 simple_interest(amount, interest, numYears): Calculates the total amount for simple interest based on the formula 
 
@@ -51,11 +51,11 @@ Depending on the user's choice (Investment or Bond), the corresponding function 
 After completing a calculation, the program asks the user if they want to continue (myInput = input("Do you want to continue? yes/no :").lower()). If the user enters "no", the loop breaks, and the program ends.
 If any exception occurs during the execution of the program, it catches the exception and displays an error message.
 
-##Error Handling:
+## Error Handling:
 
 The try-except block ensures that if any errors occur during the execution of the program (such as invalid input or mathematical errors), it displays a generic error message and terminates gracefully.
 
-##Output:
+## Output:
 
 The program outputs the calculated amounts or monthly payments formatted in a clear manner, ensuring the user understands the results.
 
