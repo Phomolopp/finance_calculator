@@ -9,9 +9,10 @@ This Python code is a financial calculator that allows users to calculate either
      compound_interest(amount, interest, numYears): Calculates the total amount for compound interest using the formula 
      Total Amount =Principal×(1+Interest Rate100)Number of YearsTotal Amount=Principal×(1+ 100Interest Rate)  Number of Years.
      
-     ### Investment(): 
+     Investment(): 
      Handles the input and calculation process for investment scenarios, where the user inputs the initial amount, interest rate, number of years, and chooses between simple or compound interest.
-     ### Bond():
+     
+     Bond():
      Handles the input and calculation process for bond scenarios, where the user inputs the present value of the house (amount), interest rate, and number of months to repay.
 
 ## Main Program Flow:
