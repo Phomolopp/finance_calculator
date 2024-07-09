@@ -3,43 +3,45 @@ This Python code is a financial calculator that allows users to calculate either
 
 ## Functions Defined:
 
-simple_interest(amount, interest, numYears): Calculates the total amount for simple interest based on the formula Total Amount
-=
-Principal
-×
-(
-1
-+
-Interest Rate
-100
-×
-Number of Years
-)
-Total Amount=Principal×(1+ 
-100
-Interest Rate
-× Number of Years).
-compound_interest(amount, interest, numYears): Calculates the total amount for compound interest using the formula 
-Total Amount
-=
-Principal
-×
-(
-1
-+
-Interest Rate
-100
-)
-Number of Years
-Total Amount=Principal×(1+ 
-100
-Interest Rate
-​
- ) 
-Number of Years
- .
-Investment(): Handles the input and calculation process for investment scenarios, where the user inputs the initial amount, interest rate, number of years, and chooses between simple or compound interest.
-Bond(): Handles the input and calculation process for bond scenarios, where the user inputs the present value of the house (amount), interest rate, and number of months to repay.
+     simple_interest(amount, interest, numYears): Calculates the total amount for simple interest based on the formula Total Amount
+     =
+     Principal
+     ×
+     (
+     1
+     +
+     Interest Rate
+     100
+     ×
+     Number of Years
+     )
+     Total Amount=Principal×(1+ 
+     100
+     Interest Rate
+     × Number of Years).
+     
+     
+     compound_interest(amount, interest, numYears): Calculates the total amount for compound interest using the formula 
+     Total Amount
+     =
+     Principal
+     ×
+     (
+     1
+     +
+     Interest Rate
+     100
+     )
+     Number of Years
+     Total Amount=Principal×(1+ 
+     100
+     Interest Rate
+     ​
+      ) 
+     Number of Years
+      .
+     Investment(): Handles the input and calculation process for investment scenarios, where the user inputs the initial amount, interest rate, number of years, and chooses between simple or compound interest.
+     Bond(): Handles the input and calculation process for bond scenarios, where the user inputs the present value of the house (amount), interest rate, and number of months to repay.
 
 ## Main Program Flow:
 
