@@ -10,10 +10,10 @@ This Python code is a financial calculator that allows users to calculate either
      Total Amount =Principal×(1+Interest Rate100)Number of YearsTotal Amount=Principal×(1+ 100Interest Rate)  Number of Years.
      
      Investment(): 
-     Handles the input and calculation process for investment scenarios, where the user inputs the initial amount, interest rate, number of years, and chooses between simple or compound interest.
+     -Handles the input and calculation process for investment scenarios, where the user inputs the initial amount, interest rate, number of years, and chooses between simple or compound interest.
      
      Bond():
-     Handles the input and calculation process for bond scenarios, where the user inputs the present value of the house (amount), interest rate, and number of months to repay.
+     -Handles the input and calculation process for bond scenarios, where the user inputs the present value of the house (amount), interest rate, and number of months to repay.
 
 ## Main Program Flow:
 
