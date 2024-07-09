@@ -32,7 +32,7 @@ Choose either 'ínvestment' or 'bond' from the menu below to proceed:
 
 Investment    -to calculate the amount of interest you'll earn on interst
 Bond          -to calculate the amount you'll have to pay on a home loan 
-Enter: & C:/Users/Capaciti/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Capaciti/Documents/GitHub/finance_calc/finance_calculator.py
+Enter: &
 Please select only Investment or Bond
 Do you want to continue? yes/no :
 
