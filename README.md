@@ -3,26 +3,24 @@
 This Python code is a financial calculator that allows users to calculate either simple or compound interest for investments, or monthly repayments for a bond (home loan). Here's an explanation of how the code works:
 
 Functions Defined:
-
 simple_interest(amount, interest, numYears): Calculates the total amount for simple interest based on the formula 
 
-   Total Amount
-   =
-   Principal
-   ×
-   (
-   1
-   +
-   Interest Rate
-   100
-   ×
-   Number of Years
-   )
-   Total Amount=Principal×(1+ 
-   100
-   Interest Rate
-   ​
-    ×Number of Years).
+Total Amount
+=
+Principal
+×
+(
+1
++
+Interest Rate
+100
+×
+Number of Years
+)
+Total Amount=Principal×(1+ 
+100
+Interest Rate
+× Number of Years).
 compound_interest(amount, interest, numYears): Calculates the total amount for compound interest using the formula 
 Total Amount
 =
