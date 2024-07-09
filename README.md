@@ -5,23 +5,24 @@ This Python code is a financial calculator that allows users to calculate either
 Functions Defined:
 
 simple_interest(amount, interest, numYears): Calculates the total amount for simple interest based on the formula 
-Total Amount
-=
-Principal
-×
-(
-1
-+
-Interest Rate
-100
-×
-Number of Years
-)
-Total Amount=Principal×(1+ 
-100
-Interest Rate
-​
- ×Number of Years).
+
+   Total Amount
+   =
+   Principal
+   ×
+   (
+   1
+   +
+   Interest Rate
+   100
+   ×
+   Number of Years
+   )
+   Total Amount=Principal×(1+ 
+   100
+   Interest Rate
+   ​
+    ×Number of Years).
 compound_interest(amount, interest, numYears): Calculates the total amount for compound interest using the formula 
 Total Amount
 =
