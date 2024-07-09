@@ -44,7 +44,7 @@ Number of Years
 Investment(): Handles the input and calculation process for investment scenarios, where the user inputs the initial amount, interest rate, number of years, and chooses between simple or compound interest.
 Bond(): Handles the input and calculation process for bond scenarios, where the user inputs the present value of the house (amount), interest rate, and number of months to repay.
 
-##Main Program Flow:
+## Main Program Flow:
 
 The program starts with an infinite loop (while True) where it presents a menu to the user to choose between calculating an investment or a bond.
 Depending on the user's choice (Investment or Bond), the corresponding function is called to gather input and perform calculations.
