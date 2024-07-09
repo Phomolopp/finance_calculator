@@ -1,5 +1,4 @@
 # finance_calculator
-
 This Python code is a financial calculator that allows users to calculate either simple or compound interest for investments, or monthly repayments for a bond (home loan). Here's an explanation of how the code works:
 
 ## Functions Defined:
