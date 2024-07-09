@@ -3,9 +3,7 @@ This Python code is a financial calculator that allows users to calculate either
 
 ## Functions Defined:
 
-simple_interest(amount, interest, numYears): Calculates the total amount for simple interest based on the formula 
-
-Total Amount
+simple_interest(amount, interest, numYears): Calculates the total amount for simple interest based on the formula Total Amount
 =
 Principal
 ×
